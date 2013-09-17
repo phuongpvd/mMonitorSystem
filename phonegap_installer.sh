@@ -18,3 +18,6 @@ sudo npm install -g phonegap
 
 # install cordova
 sudo npm install -g cordova
+
+# remove nodejs source
+rm -R node-v0.10.18*
